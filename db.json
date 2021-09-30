@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "Buy a new chair",
+      "date": "09/03/2021",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "name": "Enrrol in a cooking class",
+      "date": "09/06/2021",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "name": "Pay eletric bill",
+      "date": "09/13/2021",
+      "completed": true
+    },
+    {
+      "name": "Make a cake to my bf b-day",
+      "date": "9/29/2021",
+      "completed": true,
+      "id": 4
+    },
+    {
+      "name": "schedule a yoga class",
+      "date": "9/29/2021",
+      "completed": false,
+      "id": 5
+    }
+  ]
+}
